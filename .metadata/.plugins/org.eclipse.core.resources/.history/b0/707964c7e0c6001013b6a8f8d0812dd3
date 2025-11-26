@@ -1,0 +1,16 @@
+package com.demo.dao;
+
+import com.demo.beans.MyUser;
+
+public class LoginUserDaoImpl implements LoginUserDaoI 
+{
+	
+	
+	@Override
+	public MyUser validateUser(String username, String password) 
+	{
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

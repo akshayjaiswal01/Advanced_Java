@@ -1,0 +1,35 @@
+package com.demo.servelets;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.demo.beans.MyUser;
+import com.demo.service.LoginUserServiceI;
+import com.demo.service.LoginUserServiceImpl;
+
+public class LoginUserServlet extends HttpServlet
+{
+	public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException
+	{
+		response.setContentType("text/html");
+		PrintWriter out = response.getWriter();
+		
+		String username = request.getParameter("username");
+		String password = request.getParameter("parameter");
+		
+		LoginUserServiceI loginService = new LoginUserServiceImpl();
+		
+		MyUser user = loginService.validateUser(username, password);
+		
+		if(user != null)
+		{
+			RequestDispatcher rd = request.getRequestDispatcher("LoginSuccess");
+		}
+		
+	}
+}

@@ -1,0 +1,11 @@
+package com.demo.dao;
+
+public class DBUtil 
+{
+	static Connection con;
+	
+	public static Connection getMyConnection()
+	{
+		
+	}
+}

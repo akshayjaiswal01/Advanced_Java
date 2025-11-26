@@ -1,0 +1,6 @@
+package com.demo.servelets;
+
+public class LoginUserServlet extends HttpServlet
+{
+
+}

@@ -1,0 +1,16 @@
+package com.demo.dao;
+
+import java.sql.Connection;
+
+public class RegisterUserDaoImpl implements RegisterUserDaoI 
+{
+	static Connection con = null;
+
+	@Override
+	public boolean addNewUser(String username, String password, String email, String phoneno, String address) 
+	{
+		
+		return false;
+	}
+
+}

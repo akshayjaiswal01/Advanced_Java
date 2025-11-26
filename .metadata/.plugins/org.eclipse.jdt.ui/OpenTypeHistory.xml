@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Employee_Management_System/src&lt;com.demo.dao{EmployeeDaoI.java[EmployeeDaoI" modifiers="513" timestamp="1763533384551"/>
+    <typeInfo handle="=Employee_Management_System/src&lt;com.demo.service{EmployeeServiceI.java[EmployeeServiceI" modifiers="513" timestamp="1763533361432"/>
+    <typeInfo handle="=Employee_CRUD_App/src\/main\/java&lt;com.demo.dao{LoginUserDaoI.java[LoginUserDaoI" modifiers="513" timestamp="1763732851803"/>
+    <typeInfo handle="=Employee_CRUD_App/C:\/Users\/IET\/Desktop\/eclipse-jee-2023-03-R-win32-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;javax.security.auth.spi(LoginModule.class[LoginModule" modifiers="1537" timestamp="1759295623761"/>
+    <typeInfo handle="=LoginApp/src\/main\/java&lt;com.demo.service{LoginUserServiceI.java[LoginUserServiceI" modifiers="513" timestamp="1763803222507"/>
+    <typeInfo handle="=LoginApp/C:\/Users\/IET\/Desktop\/eclipse-jee-2023-03-R-win32-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;javax.security.auth.spi(LoginModule.class[LoginModule" modifiers="1537" timestamp="1759295623761"/>
+    <typeInfo handle="=LoginApp/src\/main\/java&lt;com.demo.dao{LoginUserDaoI.java[LoginUserDaoI" modifiers="513" timestamp="1763803364946"/>
+    <typeInfo handle="=LoginApp/src\/main\/java&lt;com.demo.service{RegisterUserServiceI.java[RegisterUserServiceI" modifiers="513" timestamp="1763806729323"/>
+    <typeInfo handle="=LoginApp/src\/main\/java&lt;com.demo.dao{RegisterUserDaoI.java[RegisterUserDaoI" modifiers="513" timestamp="1763806912495"/>
+</typeInfoHistroy>

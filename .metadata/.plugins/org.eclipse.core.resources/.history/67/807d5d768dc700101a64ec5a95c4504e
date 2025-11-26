@@ -1,0 +1,30 @@
+package com.demo.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class RegisterUserDaoImpl implements RegisterUserDaoI 
+{
+	static Connection con = null;
+	
+	static 
+	{
+		con = DBUtil.getMyConnection();
+	}
+
+	@Override
+	public boolean addNewUser(String username, String password, String email, String phoneno, String address) 
+	{
+		try 
+		{
+			PreparedStatement insertuser = con.prepareStatement("insert into user values(?,?,?,?,?)");
+		} 
+		catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return false;
+	}
+
+}

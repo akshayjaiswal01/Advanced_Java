@@ -1,0 +1,16 @@
+package com.demo.beans;
+
+public class MyUser 
+{
+	private String username;
+	private String password;
+	private String email;
+	private String contactno;
+	
+	
+	public MyUser() {
+		super();
+	}
+	
+	
+}

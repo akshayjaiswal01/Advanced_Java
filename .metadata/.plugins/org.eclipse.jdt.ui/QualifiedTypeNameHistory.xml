@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.mysql.cj.jdbc.Driver"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.demo.service.EmployeeServiceI"/>
+    <fullyQualifiedTypeName name="com.demo.dao.EmployeeDaoI"/>
+    <fullyQualifiedTypeName name="com.demo.service.EmployeeServiceImpl"/>
+    <fullyQualifiedTypeName name="com.demo.dao.EmployeeDaoImpl"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.demo.beans.Employee"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="com.demo.service.LoginUserServiceImpl"/>
+    <fullyQualifiedTypeName name="com.demo.beans.MyUser"/>
+    <fullyQualifiedTypeName name="com.demo.dao.LoginUserDaoI"/>
+    <fullyQualifiedTypeName name="com.demo.dao.LoginUserDaoImpl"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="com.demo.service.LoginUserServiceI"/>
+    <fullyQualifiedTypeName name="com.demo.service.RegisterUserServiceI"/>
+    <fullyQualifiedTypeName name="com.demo.service.RegisterUserServiceImpl"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="com.demo.dao.RegisterUserDaoI"/>
+    <fullyQualifiedTypeName name="com.demo.dao.RegisterUserDaoImpl"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+</qualifiedTypeNameHistroy>

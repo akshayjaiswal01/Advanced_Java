@@ -1,0 +1,5 @@
+package com.demo.servelets;
+
+public class LoginUserServiceImpl implements LoginUserServiceI {
+
+}
